@@ -1,4 +1,4 @@
-# Simon dice!
+# Simón dice!
 Proyecto Simón Dice! del Curso de Fundamentos de JavaScript de Platzi
 
 Simón Dice! es el proyecto del Curso de Fundamentos de JavaScript de Platzi. 
