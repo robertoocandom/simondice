@@ -12,7 +12,7 @@ const imprimeNivel = document.getElementById('nivel')
 const imprimeSubNivel = document.getElementById('subnivel')
 
 const btnempezar = document.getElementById('btnEmpezar')
-const ULTIMO_NIVEL = 10
+const ULTIMO_NIVEL = 15
 
 class Juego {
     constructor() {
