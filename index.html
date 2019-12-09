@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Simon Dice!</title>
+    <link rel="stylesheet" href="css/colores.css"/>
+</head>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js"></script>
+<body>
+    <header class="header">
+        <h1>Bienvenido al Juego Simón Dice!</h1>
+        <h5>Proyecto del Curso de Fundamentos de Java Script de Platzi!</h2>
+    </header>
+    <div class="div main">
+        <div class="sounds">
+            <audio src="" id="start"></audio>
+            <audio src="./audios/do.wav" id="do"></audio>
+            <audio src="./audios/re.wav" id="re"></audio>
+            <audio src="./audios/mi.wav" id="mi"></audio>
+            <audio src="./audios/fa.wav" id="fa"></audio>
+            <audio src="./audios/gameover.wav" id="lost"></audio>
+            <audio src="./audios/win.wav" id="win"></audio>
+        </div>
+        <div id="scorecard"class="score">
+            <label id="nivel">Nivel: </label>
+            <label id="valorNivel"></label>
+            <!-- <label id="subNivel">Sub Nivel: </label> -->
+            <!-- <label id="valorSubNivel"></label> -->
+        </div>
+        <div class="gameboard">
+            <div id="celeste" class="color celeste left" data-color="celeste"></div>
+            <div id="violeta" class="color violeta right" data-color="violeta"></div>
+            <div id="verde" class="color verde left" data-color="verde"></div>
+            <div id="naranja" class="color naranja right" data-color="naranja"></div>  
+            <button id="btnEmpezar" class="btnstart" onclick="empezarJuego()">Comenzar a Jugar</button>
+        </div>
+    </div>
+    <script src="js/simondice.js">
+    </script>
+    <footer class="footer">
+        Realizado por: Roberto Ocando - 2019
+    </footer>
+</body>
+</html>
