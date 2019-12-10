@@ -1,23 +1,22 @@
-# Simón dice!
-Proyecto Simón Dice! del Curso de Fundamentos de JavaScript de Platzi
+# Simon Says!
 
-Simón Dice! es el proyecto del Curso de Fundamentos de JavaScript de Platzi. 
+Project Simon Says! of the Platzi JavaScript Basics Course
 
-Al haber concluido el Curso de manera exitosa he publicado el resultado del proyecto.
+Simon Says! It is the project of the Platzi JavaScript Fundamentals Course.
 
-Además del alcance original, me he tomado la libertad de agregar algunas mejoras al proyecto como lo son:
+Having successfully completed the course I have published the result of the project.
 
- - Agregue características de sonido a los botones cada vez que cambian de color, para mejorar la usabilidad del juego y 
- hacer lo agradable y entretenido. Para lograr esto tome las primeras notas musicales (DO, RE, MI, FA), las cuales descargue   en formato libre .wav, lo cual no afecta el derecho de autor de otros formatos como .mp3. El unico problema con este formato es que las personas que todavia utilicen Internet Explorer como navegador, no van a poder disfrutar de esta caracteristica. 
-Por otro lado, tambien agregue un sonido de triunfo al final del Juego, para que cuando el usuario termine el juego, esto con la idea que de una sensacion de logro al finalizarlo.
- 
- - Asi mismo, tambien agregue un sencillo pero efectivo contador de Niveles, a los fines de que el usuario pueda tener
- la percepcion de que va avanzando en el juego y que su progreso se da con exito.
- 
- Espero que para las personas que esten interesadas en probarlo y verificar el codigo, sea de su agrado, ya que para mi ha 
- sido un buen reto, en mi proceso de actualización de conocimientos de sobre Desarrollo WEB que he emprendido en este año     2019.
- 
- 
- Saludos y sigan adelando.. ;)
- 
- 
+In addition to the original scope, I have taken the free of adding some improvements to the project such as:
+
+ - Add sound features to the buttons every time they change color, to improve the usability of the game and
+ Do the pleasant and entertaining. To achieve this, take the first musical notes (DO, RE, MI, FA), which you download in free .wav format, which does not affect the copyright of other formats such as .mp3. The only problem with this format is that people who still use Internet Explorer as a browser will not be able to enjoy this feature.
+On the other hand, also add a sound of triumph at the end of the Game, so that when the user finishes the game, this with the idea that a sense of accomplishment at the end.
+ 
+ - Likewise, also add a simple but effective Level counter, so that the user can have
+ the perception that he is making progress in the game and that his progress is successful.
+ 
+ I hope that for people who are interested in testing it and verifying the code, it is to their liking, since for me it has
+ It was a good challenge, in my process of updating knowledge about WEB Development that I undertook in this year 2019.
+ 
+ 
+ Greetings and keep on going ..;)
